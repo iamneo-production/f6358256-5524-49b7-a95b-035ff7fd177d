@@ -62,7 +62,7 @@ const ContextCart = () => {
             </Scrollbars>
           </div>
         </div>
-        
+
         <div className="card-total">
           <h3>
             Cart Total : <span>{totalAmount}₹</span>
