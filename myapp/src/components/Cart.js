@@ -3,6 +3,7 @@ import "./cart.css";
 import { products } from "./products";
 import ContextCart from "./ContextCart";
 import { reducer } from "./reducer";
+
 export const CartContext = createContext();
 
 const initialState = {
